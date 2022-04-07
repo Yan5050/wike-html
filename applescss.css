@@ -1,0 +1,28 @@
+
+.red-text {
+  color: red;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+.green-text {
+  color: green;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.pinkish-text {
+  color: #F08080;
+  font-family: monospace;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+#larger {
+  font-family: monospace;
+  font-size: 17px;
+}
