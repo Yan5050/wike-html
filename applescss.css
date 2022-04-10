@@ -21,8 +21,39 @@
   font-weight: 500;
 }
 
+.mytext {
+  text-decoration: underline red;
+}
 
-#larger {
+.larger {
   font-family: monospace;
   font-size: 17px;
+}
+
+easter:hover {
+  background: rgb(200, 207, 91);
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.midd {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+
+/* base is not in use */
+.base { 
+  display: flex;
+  /* flex-direcion: column; */
+}
+/* not in use */
+
+.underline {
+  text-decoration: underline black;
 }
